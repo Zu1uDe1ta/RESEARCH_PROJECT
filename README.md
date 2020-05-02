@@ -118,14 +118,15 @@ Plots.jl is a visualization interface and toolset. It provides a common API acro
 
 ## Tell Me About Cassandra
 
-- Cassandra, or more specifically Apache Cassandra, is an open-source distributed NoSQL database.  Cassandra delivers outstanding performance due to its distributed node design.  
-- This design leads to a linear increase in both read and write performance as more nodes are added.  
-- Another benefit to the design is that each node is identical because data is replicated across all nodes, meaning no single node represents a point of failure.  
-- Based on Cassandra’s design, the CAP theorem would indicate that Cassandra focuses on the A and P guarantees – A for Availability and P for Partition tolerance – while sacrificing Consistency.
+* Cassandra, or more specifically [Apache Cassandra](https://cassandra.apache.org), is an open-source distributed NoSQL database.  Cassandra delivers outstanding performance due to its distributed node design.  
+* This design leads to a linear increase in both read and write performance as more nodes are added.  
+* Another benefit to the design is that each node is identical because data is replicated across all nodes, meaning no single node represents a point of failure.  
+* Based on Cassandra’s design, the CAP theorem would indicate that Cassandra focuses on the A and P guarantees – A for Availability and P for Partition tolerance – while sacrificing Consistency.
 
 << CAP THEOREM DIAGRAM>> 
 
-* [Cassandra](https://cassandra.apache.org) shares some design qualities with popular NoSQL databases such as Amazon’s DynamoDB and Google’s Big Table.  Cassandra is a Column store database like Google’s Big Table.  
+* Cassandra shares some design qualities with popular NoSQL databases such as [Amazon’s DynamoDB](https://aws.amazon.com/dynamodb/) and [Google’s Big Table](https://cloud.google.com/bigtable/). 
+* Cassandra is a Column store database like Google’s Big Table.  
 
 [KUBERNETES.md](https://github.com/joemccann/dillinger/blob/master/KUBERNETES.md)
 
