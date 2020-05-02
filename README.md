@@ -1,3 +1,15 @@
+
+# JULIA 
+
+### Why Julia?
+
+Julia is relatively new high-level free/open-source language for numerical computing in the same spirit, with a rich set of built-in types and libraries for working with linear algebra and other types of computations, with a syntax that is superficially reminiscent of Matlab's. 
+Basically, we are using Julia because, unlike Matlab or Python or R, it scales better to real computational problems — you can write performance-critical "inner loops" in Julia, whereas similar tasks in other high-level languages often require one to drop down to C or similar low-level languages.
+Because of this, we are using Julia more and more in our own research, and we want to teach using software tools that we really employ ourselves.
+
+
+# STACKOVERFLOW 
+
 ### Context
 
 Stack Overflow is the largest online community for programmers to learn, share their knowledge, and advance their careers.
