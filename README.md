@@ -14,7 +14,10 @@ Because of this, we are using Julia more and more in our own research, and we wa
 
 Stack Overflow is the largest online community for programmers to learn, share their knowledge, and advance their careers.
 
-Content
+
+
+
+### Content
 
 Updated on a quarterly basis, this BigQuery dataset includes an archive of Stack Overflow content, including posts, votes, tags, and badges. This dataset is updated to mirror the Stack Overflow content on the Internet Archive, and is also available through the Stack Exchange Data Explorer.
 
