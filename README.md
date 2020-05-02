@@ -45,3 +45,9 @@ What is the reputation and badge count of users across different tenures on Stac
 What are 10 of the “easier” gold badges to earn?
 
 Which day of the week has most questions answered within an hour?
+
+# CASSANDRA
+
+# TABLEAU
+
+
