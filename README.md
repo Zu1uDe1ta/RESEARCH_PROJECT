@@ -51,6 +51,7 @@ Banner Photo by Caspar Rubin from Unplash.
 - If you like Python’s syntax while you have a massive amount of data, then Julia is the next programming language to learn.
 - A joint effort between Jupyter and Julia communities, it gives a fantastic program based graphical notebook interface to Julia. People, who are searching for the best performance parallel computing language focused on numerical computing, Julia is a perfect language for them.
 
+![Image](Images/JULIAUSERS.png)
 
 ## UTILIZING JULIA 
 - We thank you for being a Julia user. Julia Computing has decided to sunset JuliaBox on May 31, 2020. If you are a paid JuliaBox user, you will no longer be able to log in and you will not be charged for JuliaBox after that date. 
@@ -113,6 +114,11 @@ Data Visualization and Plotting
 Data visualization has a complicated history. Plotting software makes trade-offs between features and simplicity, speed and beauty, and a static and dynamic interface. Some packages make a display and never change it, while others make updates in real-time.
 
 Plots.jl is a visualization interface and toolset. It provides a common API across various backends, like GR.jl, PyPlot.jl, and PlotlyJS.jl. Users who prefer a more grammar of graphics style API might like the pure Julia Gadfly.jl plotting package. VegaLite.jl provides the Vega-Lite grammar of interactive graphics interface as a Julia package. For those who do not wish to leave the comfort of the terminal, there is also UnicodePlots.jl.
+
+
+
+
+
 
 # CASSANDRA
 
