@@ -44,8 +44,6 @@
 
 ### CASSANDRA VS. MONGODB
 
-## SIMILARITIES BETWEEN CASSANDRA AND MONGODB
-
 
 || MongoDB | Cassandra |
 | ------ | ------ | ------ |
