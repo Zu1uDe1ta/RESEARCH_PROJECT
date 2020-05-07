@@ -22,14 +22,15 @@
 ### Content
 
 - Updated on a quarterly basis, this BigQuery dataset includes an archive of Stack Overflow content, including posts, votes, tags, and badges. 
+
 - This dataset is updated to mirror the Stack Overflow content on the Internet Archive, and is also available through the Stack Exchange Data Explorer.
 
 
-Fork this kernel to get started with this dataset.
+### Acknowledgements
 
-Acknowledgements
+Dataset Sources: 
 
-Dataset Source: https://archive.org/download/stackexchange
+https://archive.org/download/stackexchange
 
 https://bigquery.cloud.google.com/dataset/bigquery-public-data:stackoverflow
 
