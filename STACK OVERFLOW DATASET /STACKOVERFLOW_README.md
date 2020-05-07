@@ -10,9 +10,7 @@
 
 - What is the percentage of questions that have been answered over the years?
 
-- Predicting Who will answer your questions
-
-- Predicting who will  answer your questions
+- Who will answer your questions (prediction)?
 
 - What is the reputation and badge count of users across different tenures on StackOverflow?
 
