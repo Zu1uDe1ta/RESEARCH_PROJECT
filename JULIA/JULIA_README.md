@@ -22,10 +22,13 @@
 
 ### General Purpose
 
-Build, Deploy or Embed Your Code
-Julia lets you write UIs, statically compile your code, or even deploy it on a webserver. It also has powerful shell-like capabilities for managing other processes. It provides Lisp-like macros and other metaprogramming facilities.
+- Build, Deploy or Embed Your Code
+- Julia lets you write UIs, statically compile your code, or even deploy it on a webserver. 
+- It also has powerful shell-like capabilities for managing other processes. 
+- It provides Lisp-like macros and other metaprogramming facilities.
 
-Julia has foreign function interfaces for C/Fortran, C++, Python, R, Java, and many other languages. Julia can also be embedded in other programs through its embedding API. Specifically, Python programs can call Julia using PyJulia. R programs can do the same with R's JuliaCall, which is demonstrated by calling MixedModels.jl from R.
+- Julia has foreign function interfaces for C/Fortran, C++, Python, R, Java, and many other languages. 
+- Julia can also be embedded in other programs through its embedding API. Specifically, Python programs can call Julia using PyJulia. R programs can do the same with R's JuliaCall, which is demonstrated by calling MixedModels.jl from R.
 
 ### Data Science
 
