@@ -1,4 +1,4 @@
-# WEEK 9 PROJECT DIRECTORY
+# PROJECT DIRECTORY
 
 | LINK | DESCRIPTION |
 | ------ | ------ |
